@@ -10,9 +10,8 @@
 * **GitHub**：[kevinchen19839696-bot](https://github.com/kevinchen19839696-bot)
 
 ### 個人照片
-<img src="image/image1.jpg" width="300" alt="個人照片">
+![image](https://github.com/kevinchen19839696-bot/0153B012/blob/main/S__27623520_0.jpg)
 
----
 
 ## 2. 關於我 About Me
 大家好，我是陳楷崴，目前就讀臺灣海洋大學生命科學暨生物科技學系一年級。我對生物科技、電腦與人工智慧很有興趣。進入大學後，我希望除了學習專業知識之外，也能培養程式設計、資料分析與解決問題的能力。
